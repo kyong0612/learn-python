@@ -20,6 +20,12 @@ pip install -r requirements.txt
 python hello.py
 ```
 
+## format
+
+```bash
+black .
+```
+
 ## deactivate venv
 
 ```bash
